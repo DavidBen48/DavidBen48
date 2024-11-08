@@ -80,20 +80,13 @@ I have professional experience in the area of ​​Database and Data Analysis.
 </div>
 
 <br><hr>
-
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=DavidBen48&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-</div>
-<br><br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidBen48&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DavidBen48&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 <br>
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidBen48&radius=16&theme=react&area=true&order=5" height="500" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidBen48&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
 
 ## Minhas Redes Sociais
 
