@@ -67,20 +67,4 @@
   <div align="left">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DavidBen48&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   </div>
-  
-  ## Minhas Redes Sociais
-  
-  <div align="left">
-    <a href="https://www.linkedin.com/in/davidben81/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="75" height="50" alt="linkedin logo"  />
-    </a>
-    <a href="davidben_47" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="75" height="50" alt="discord logo"  />
-    </a>
-    <a href="https://www.instagram.com/davidben_48/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="75" height="50" alt="instagram logo"  />
-    </a>
-  </div>
-  
-  ###
 </div>
