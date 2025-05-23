@@ -5,7 +5,7 @@
 📍 Wona, Belford Roxo – RJ – 26175-550  
 📞 (21) 99480-8526  
 📧 davidbensaxofonista@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/davidben81) | [GitHub](https://github.com/DavidBen48) | [Portfólio](https://v0-portfolio-design-mu.vercel.app)
+🔗 [LinkedIn](https://linkedin.com/in/davidben81) | [GitHub](https://github.com/DavidBen48) | [Portfólio](https://davidben-portfolio.vercel.app/)
 
 ---
 
