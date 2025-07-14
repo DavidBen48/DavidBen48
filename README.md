@@ -1,6 +1,6 @@
 # David Ben de Oliveira Vieira
 
-**Desenvolvedor Backend | Python | NodeJS | Golang | MySQL | Docker**
+**Desenvolvedor FullStack | NextJS | Typescript | NodeJS | Tailwind | Java | Docker**
 
 📍 Wona, Belford Roxo – RJ – 26175-550  
 📞 (21) 99480-8526  
@@ -17,11 +17,12 @@ Busco minha primeira oportunidade como desenvolvedor backend. Tenho experiência
 
 ## 💡 Skillset
 
-- **Linguagens:** JavaScript, TypeScript, Python, Golang, PHP  
-- **Frameworks:** NodeJS, Express, Django, NextJS, React, Bootstrap, Gin, Echo  
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Ferramentas:** Docker, Git, GitHub, CI/CD  
-- **Cloud:** AWS, Google Cloud  
+- **Linguagens:** JavaScript, Python, Golang
+- **Frameworks:** React, NextJS, Gin, Echo
+- **Estilização:** Bootstrap, Tailwind
+- **Banco de Dados SQL/NoSQL:** PostgreSQL, MySQL, MongoDB  
+- **Ferramentas:** Docker, Git, GitHub  
+- **Cloud:** Google Cloud  
 - **Arquitetura:** MVC, REST APIs
 
 ---
@@ -30,7 +31,7 @@ Busco minha primeira oportunidade como desenvolvedor backend. Tenho experiência
 
 ### Liderança de Projeto (Em andamento)
 
-Atualmente lidero um time de 4 desenvolvedores em um projeto web para uma igreja.  
+Atualmente lidero um time de 4 desenvolvedores em um projeto web para uma instituição religiosa.  
 Responsável pela parte backend, utilizando:
 
 - **Tecnologias que estou usando com outro integrante:** Golang, NodeJS, PHP, MySQL, Docker.
