@@ -11,7 +11,7 @@
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade como desenvolvedor backend. Tenho experiência prática em projetos reais e desejo crescer profissionalmente, contribuindo com soluções eficientes e aprendendo continuamente.
+Busco minha primeira oportunidade como desenvolvedor fullstack. Tenho experiência prática em projetos reais e desejo crescer profissionalmente, contribuindo com soluções eficientes e aprendendo continuamente.
 
 ---
 
