@@ -17,11 +17,11 @@ Busco minha primeira oportunidade como desenvolvedor fullstack. Tenho experiênc
 
 ## 💡 Skillset
 
-- **Linguagens:** JavaScript, Python, Golang
-- **Frameworks:** React, NextJS, Gin, Echo
-- **Estilização:** Bootstrap, Tailwind
-- **Banco de Dados SQL/NoSQL:** PostgreSQL, MySQL, MongoDB  
-- **Ferramentas:** Docker, Git, GitHub  
+- **Linguagens:** JavaScript, Java, C#
+- **Frameworks:** React, NextJS, Typescript, .NET Framework
+- **Estilização:** TailwindCSS
+- **Banco de Dados SQL/NoSQL:** PostgreSQL com Supabase, MongoDB
+- **Ferramentas:** Docker, Git, GitHub
 - **Cloud:** Google Cloud  
 - **Arquitetura:** MVC, REST APIs
 
