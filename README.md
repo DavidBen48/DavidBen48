@@ -1,6 +1,6 @@
 # David Ben de Oliveira Vieira
 
-**Desenvolvedor FullStack | NextJS | Typescript | NodeJS | Tailwind | Java | Docker**
+**Ciência da Computação | C# | .NET | Python | NextJS | Azure | SQL | MongoDB**
 
 📍 Wona, Belford Roxo – RJ – 26175-550  
 📞 (21) 99480-8526  
