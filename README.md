@@ -12,7 +12,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=Hey+guys,+how+are+you?;I+am+a+Computer+Science+student!;And+I+am+a+Fullstack+Developer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=Hey+guys,+how+are+you?;I+am+a+Computer+Science+student!;And+I+am+a+Software+Developer" alt="Typing SVG"/>
 </div>
       
 <br>
@@ -27,8 +27,8 @@
 </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="400" src="https://skillicons.dev/icons?i=javascript,nextjs,typescript,tailwind&perline=4" /> <br>
-  <img width="400" src="https://skillicons.dev/icons?i=python,django,java,spring,supabase,mongodb&perline=6" />
+  <img width="350" src="https://skillicons.dev/icons?i=javascript,nextjs,bootstrap,tailwind&perline=4" /> <br>
+  <img width="350" src="https://skillicons.dev/icons?i=golang,docker,gcp,supabase,mongodb&perline=5" />
 </div>
 
 <br>
@@ -42,7 +42,7 @@
 
   <br>
 
-  <img width="350" src="https://skillicons.dev/icons?i=c,cs,dotnet,nodejs,prisma,express&perline=6" />
+  <img width="350" src="https://skillicons.dev/icons?i=php,nestjs,typescript,nodejs,prisma,express,graphql,postman&perline=4" />
 
   <br>
 </details>
@@ -68,13 +68,4 @@
 <br>
 
 </details>
-
-##
-
-<br>
-
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FDavidBen48&s=40&c=0dba80&bg=00000000&no=2&ff=linebeam&tb=&ta=+Visitors%3F+Wow.+Come+back+soon%21" /></p> 
 </div>
-
-<br>
