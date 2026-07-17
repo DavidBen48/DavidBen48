@@ -1,71 +1,93 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2aa889"/>
+<h1 align="center">Olá, eu sou Ben 👋</h1>
 
-<br>
+<p align="center">
+  <b>Analista de Suporte Técnico (N1)</b> • <b>Backend Developer</b> • <b>Data Analytics</b>
+</p>
 
-<div align="center">
-  
-  <b>`イエス様、愛しています`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>David Ben</b>
-  </samp>
-</div>
+<p align="center">
+  Graduando em Ciência da Computação, construindo uma carreira focada em infraestrutura, backend e engenharia de dados.
+</p>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2aa889&width=900&size=22&center=true&lines=Hey+guys,+how+are+you?;I+am+a+Computer+Science+student!;And+I+am+a+Software+Developer" alt="Typing SVG"/>
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com?user=DavidBen48&theme=tokyonight-duo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats"/>
-  <img height=180 align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidBen48&theme=2077"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidBen48&theme=2077"/>
-</div>
+---
 
-<div align="center" style="display: inline_block"><br>
-  <img width="350" src="https://skillicons.dev/icons?i=javascript,nextjs,bootstrap,tailwind&perline=4" /> <br>
-  <img width="350" src="https://skillicons.dev/icons?i=golang,docker,gcp,supabase,mongodb&perline=5" />
-</div>
+## 🚀 Sobre mim
 
-<br>
+- 💼 Atualmente atuando como **Analista de Suporte Técnico (N1)**
+- 🎓 Graduando em **Ciência da Computação**
+- 🖥️ Experiência com infraestrutura, hardware, redes e sistemas operacionais
+- ⚙️ Foco em desenvolvimento backend utilizando **Python**, **Go** e **Node.js**
+- 📊 Estudando Engenharia de Dados e Cloud Computing
+- 📚 Aprendizado contínuo em arquitetura de software e microsserviços
 
-<details align="center">
-  <summary>
-    <samp>
-      What am I currently learning?
-    </samp>
-  </summary>
+---
 
-  <br>
+## 💻 Stack Principal
 
-  <img width="350" src="https://skillicons.dev/icons?i=php,nestjs,typescript,nodejs,prisma,express,graphql,postman&perline=4" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,ts,postgres,mongodb,docker,gcp,linux,windows,git,github,postman&perline=7" />
+</p>
 
-  <br>
-</details>
+---
 
+## 🛠 Competências
 
-<br>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>Contact me:</b>
-      </samp>
-  </summary>
-  
-  <br>
+### Infraestrutura
 
-  [![Gmail](https://img.shields.io/badge/Gmail-194d45?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:davidbensaxofonista@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/davidben_sax)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/davidben81/)
-  
-</div>
+- Windows
+- Linux
+- Redes TCP/IP
+- Hardware
+- Troubleshooting
+- Suporte ao usuário
+- Monitoramento
+- Documentação técnica
+- Atendimento N1
 
-<br>
+</td>
 
-</details>
-</div>
+<td width="50%" valign="top">
+
+### Backend
+
+- Python
+- Golang
+- Node.js
+- TypeScript
+- APIs REST
+- PostgreSQL
+- MongoDB
+- Docker
+- Pandas
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📚 Atualmente estudando
+
+- Backend com Python
+- Backend com Golang
+- Node.js + TypeScript
+- Microsserviços
+- Docker
+- Google Cloud Platform
+- Engenharia de Dados
+- Linux para Servidores
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é evoluir da área de infraestrutura para atuar como **Backend Developer** e **Analista de Dados**, desenvolvendo soluções escaláveis, APIs de alta performance e aplicações orientadas por dados, mantendo uma base sólida em infraestrutura, redes e sistemas operacionais.
+
+---
+
+<p align="center">
+<i>"Construindo soluções confiáveis através de código, infraestrutura e aprendizado contínuo."</i>
+</p>
